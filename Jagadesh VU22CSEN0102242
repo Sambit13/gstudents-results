@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<!-- saved from url=(0099)https://onlinecertificates.gitam.edu/View_Result_Grid2.aspx?QT=QRCODE$VU22CSEN0102242$4$APR$2024$R$ -->
+<html lang="en"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	DOE Results
+</title><meta name="viewport" content="width=device-width, initial-scale=1"><link type="text/css" href="./DOE Results 2_files/stylesheet.css" rel="Stylesheet">
+    
+     <script language="JavaScript" type="text/javascript">
+//Message to display whenever right click on website
+var message = "Sorry, Right Click have been disabled."; 
+function click(e) {
+if (document.all) {
+if (event.button == 2 || event.button == 3) {
+alert(message);
+return false;
+}
+}
+else {
+if (e.button == 2 || e.button == 3) {
+e.preventDefault();
+e.stopPropagation();
+alert(message);
+return false;
+}
+}
+}
+if (document.all) {
+document.onmousedown = click;
+}
+else {
+document.onclick = click;
+}
+document.oncontextmenu = function () {
+return false;
+
+};
+</script>
+</head>
+<body>
+    <form method="post" action="https://onlinecertificates.gitam.edu/View_Result_Grid2.aspx?QT=QRCODE%24VU22CSEN0102242%244%24APR%242024%24R%24" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ezJ9/pKvriqJ+yHlULwgsp41Bm7HsX2sBHFYmV1YCHDPWCVODFsAQjS+TGGdFK4OASgmQSAfbBgqf228C3UMawVhDfZe3vTAHP5Q9Y4eZDRYk1p95SaHOGig493p08nr/+zyYP7/WvX7vzTFdMQRKFvVF2jBtuZd6qVHAhH3BSRd4qLhyzdl4nc5kipXAibwkv1Sb5HUoCtWCo1oWnrouKULpHxRFa+qCrhVpbvJKoeusgywGy/WjRVPiglken+XvXVQTs/7bucP4usIjzvwx0P73+mImvv31d8sG6ucI8TkT8nLNT18ucsE89IZ4hivx63WdXHLeMZcMcZhuguG9lRXlWtgrvcg3kCEqiIE3B7WyXhVYnaJ7oIxIzDd/hwX2KEZ1XSmnOWLcCurbvJRNFtVouKfwJvJ4BgKDtYgIFdx0dJD32fwv/QWnjd5yfc1r/neVEVx9nbU83fDXlYXoVjoRSyzgGLMS/aki98H5OuH5LTFpQzcW6+7wtbMKmGo3CeDLwgzP3yczUhvVZG6DLvRK9O2rRFL3pLSaO7yJNrjYQMiXrpNYYXwQ9xHpkN9M0LFNMm8fEM5yivr4l/W+rqe+1g/3EjRxLKF1YRhikkbxHOd3533wKIi5Rbe6CPyceuLbiFg6l//KeeAvtrtJNxdTb3F/8seumZonEHg9w0AxA8WxR/06HtNLXgAhLL9vSYfMRSAy3L8/sTNtkD0rQAjCqpsoqpKEbKlxTOx8LPNHSArzLm/Iv0N3JSSZFo8tD4m/XY3DBr1ayJSj2+w2WcVn4x2RpsOrZaNQGE5Yxlm9JtqlJOk8zKm/sqJuVlpVINA7q6JlBbTIGlke+RKTAjNULAngZg8y6Gk/mSpx1UDF+7EOXx1Juz8mMcnXOt+F4Ir8X/DoAfj86FtaM3lh9c2pxphOu4ZN2x9vLM0rusXvI4wwIheAfrP6ZK1DFNxnNQsY0qZlLUOJfeBN9XdNTGZqFKYdUlB3MnQX8Lw6jwvzI4A/idX2kAK0w/MfFNcf6sLWp+/wjNl2xzKA0fKDPQPv8vGI2G6QweXxEsMlFIbx03Bt2kHEUAQ/1Aaf2dOqWO0C4E+kEEr8P+KGxWnw7eBGhJdgnv6VYPGe95vmr8YV84Bj31eCYb/Sx9MkDTrQ8o1JNOwT/dxYevpklJ4GTm7wgEvmJxIVX73Efa4iFHEqCkSLllnu2PhZv3Ju1pbric/JZZcw3zJ7q6aUWab1PJGp9Gop8H0D3/mlULUDcnh2p7RVDGxUdvR9KSpcmgKNouQWnLZ421V2zDKyy7FgTuX+gnm0cLWbHt/LJJMrkWwvD7nuDJEfwN5l6M8tC+KyTCO3ySxGojz05iDqtusuL46Pim2UTH/AjSaZ91tB0+S5sok3noOifc4bPGdny9RlL68/acZoyI2q0vQNGzMwDrmEh9eOPN/yrfUaVUo1lzxW2ZOQ6kwE58mxMB+eKRF4Vn6d+KVZRy7HiS+JmwMWuGqi9QsHmcb6Q3gXJ+5masd7ch2CDgYdEgUfcdv+4xG3+Yt34Yc38gbXiusfLEGGZ4V5e7Z1pQoabgE6NDuJMBYlJQDHtn7FswUXuSv+EP8taG8bUF3f8XDHroUNA+ZHZ+2/3nA5w07JwDKPHMHMgWBzgPibti+lvHfMfAfrFL6jh2MPYiOtZOdUnoY6rARyYCXmpdVEzPnE/CzkTyYLIYSyT+8z+kIiWAPDXU7e3G+pTvwvrSaG6r6UzQ9utnMQSDfas+vijmdwjK6OUAnG95V5zNRUQKcZsHxCqrLSbaVY2wGeQpX70J3bvDJRQzyeQ==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0363C251">
+</div>
+<center>
+    <div class="vrg" style="background-image:url(../images/logo.png)"> 
+    <table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <th height="30" colspan="4" align="center" style="font-size:24px">GITAM&nbsp;</th>
+    </tr>
+  <tr>
+    <td colspan="4" align="center" style="font-size:18px">&nbsp;<span id="lblcourse">Bachelor of Technology</span>
+        <span id="Label11">Degree Examinations</span>
+                        </td>
+    </tr>
+  <tr>
+    <td colspan="4"><table border="0" align="center" cellpadding="0" cellspacing="0" style="height: 19px; width: 100%">
+      <tbody><tr>
+        <td align="center" style="height:30px">Semester‎/‎Trimester: ‎<span id="lblsem">IV</span>
+                                    </td>
+                <td align="center">Month‎/‎Year‎ :
+            <span id="lblmonth">Apr</span>
+            /‎<span id="lblyear">2024</span>
+                                    </td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center"><strong>RESULT&nbsp;SHEET</strong></td>
+  </tr>
+  <tr>
+    <td colspan="4"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+ 
+        <tbody><tr><td width="50%" align="left"><table cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td style="height:30px">
+                     Name  : <span id="lblname">Ittadi Jagadesh Chandrapal</span>
+                    </td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+        </tbody></table></td>
+        <td width="21%" align="right">Regd No :<span id="lblregdno">VU22CSEN0102242</span></td>
+                </tr></tbody></table>
+      
+        
+      
+      </td></tr><tr>
+        <td style="height:50px">Branch 
+         :<span id="lblbranch">Computer Science and Engineering</span>
+                                    </td>
+        <td align="left">
+            &nbsp;</td>
+        <td align="right">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td align="right">&nbsp;</td>
+      </tr>
+    </tbody></table>
+    
+    <div>
+	<table class="table-responsive" cellspacing="0" rules="all" border="1" id="GridView1" style="border-collapse:collapse;">
+		<tbody><tr>
+			<th scope="col">Course Code</th><th scope="col">Course Name</th><th scope="col">Credits</th><th scope="col">Grade</th>
+		</tr><tr>
+			<td align="left" valign="middle">CLAD1031</td><td align="left" valign="middle">Practicing Verbal Ability and Quantitative Aptitude</td><td class="cntr" align="left" valign="middle">1</td><td class="cntr">A</td>
+		</tr><tr>
+			<td align="left" valign="middle">CSEN1031</td><td align="left" valign="middle">Artificial Intelligence Applications</td><td class="cntr" align="left" valign="middle">1</td><td class="cntr">A+</td>
+		</tr><tr>
+			<td align="left" valign="middle">CSEN1101</td><td align="left" valign="middle">Operating Systems</td><td class="cntr" align="left" valign="middle">4</td><td class="cntr">B+</td>
+		</tr><tr>
+			<td align="left" valign="middle">CSEN1111</td><td align="left" valign="middle">Object Oriented Programming with Java</td><td class="cntr" align="left" valign="middle">2</td><td class="cntr">A</td>
+		</tr><tr>
+			<td align="left" valign="middle">CSEN2011</td><td align="left" valign="middle">Computer Organization and Architecture</td><td class="cntr" align="left" valign="middle">3</td><td class="cntr">A</td>
+		</tr><tr>
+			<td align="left" valign="middle">CSEN2021</td><td align="left" valign="middle">Computer Networks</td><td class="cntr" align="left" valign="middle">4</td><td class="cntr">A+</td>
+		</tr><tr>
+			<td align="left" valign="middle">CSEN3151</td><td align="left" valign="middle">Advanced Data Structures</td><td class="cntr" align="left" valign="middle">3</td><td class="cntr">A</td>
+		</tr><tr>
+			<td align="left" valign="middle">HSMCH102</td><td align="left" valign="middle">Universal Human Values 2: Understanding Harmony</td><td class="cntr" align="left" valign="middle">3</td><td class="cntr">S</td>
+		</tr><tr>
+			<td align="left" valign="middle">MATH2361</td><td align="left" valign="middle">Probability and Statistics</td><td class="cntr" align="left" valign="middle">3</td><td class="cntr">A+</td>
+		</tr><tr>
+			<td align="left" valign="middle">MKTG1011</td><td align="left" valign="middle">Marketing Strategy</td><td class="cntr" align="left" valign="middle">3</td><td class="cntr">B+</td>
+		</tr>
+	</tbody></table>
+</div>
+              
+              <table>
+              
+              <tbody><tr>
+              <td>
+</td>
+              
+              <td>&nbsp;</td><td style="width:100px; ">
+              
+                      <table style="float:right; ">
+              <tbody><tr><td>GPA  :</td><td>
+                                  <span id="lblgpa">7.33</span>
+                                  </td></tr>
+           <tr><td>CGPA:</td><td>
+                                  <span id="lblcgpa">7.42</span>
+                                  </td></tr>
+              
+              </tbody></table></td></tr>
+              
+              <tr><td>&nbsp;</td><td>
+              
+                      &nbsp;</td></tr>
+              
+              <tr><td></td><td style="white-space:nowrap">
+              
+                     </td></tr>
+              </tbody></table>
+    </div>
+    <table>
+    <tbody><tr><td></td></tr>
+    <tr><td>&nbsp;</td></tr></tbody></table>
+    </center>
+    
+    
+     <div class="btn">  </div>
+    
+    
+   
+    </form>
+    
+    
+   
+    
+
+
+</body></html>
